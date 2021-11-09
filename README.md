@@ -42,8 +42,16 @@ Image Processing - Performing intensity transformations: histogram equalization,
   #### before quantization:
   <img width="310" alt="צילום מסך 2021-11-09 ב-16 16 27" src="https://user-images.githubusercontent.com/83215154/140940270-1452d096-c61d-451c-bcd6-44131523dcf8.png">
 
+  #### after quantization to 10 intensities:
+  <img width="309" alt="צילום מסך 2021-11-09 ב-16 43 19" src="https://user-images.githubusercontent.com/83215154/140945202-5a83b950-faa3-4a68-b3c9-a4bb268a97e7.png">
+
+  
   #### after quantization to 4 intensities:
+  <img width="309" alt="צילום מסך 2021-11-09 ב-16 43 25" src="https://user-images.githubusercontent.com/83215154/140945304-7737d2fd-567c-461b-9094-91b29261986e.png">
+
 
   #### after quantization to 2 intensities:
+  <img width="309" alt="צילום מסך 2021-11-09 ב-16 43 12" src="https://user-images.githubusercontent.com/83215154/140945374-07c5d6b6-fef2-42d6-98f5-ccbc482a1ab6.png">
+
   
 
