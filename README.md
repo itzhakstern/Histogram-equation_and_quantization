@@ -1,4 +1,4 @@
-# Histogram equation & quantization
+# Histogram equation & quantization:
 *Image Processing - Performing intensity transformations: histogram equalization, and optimal quantization*
 
 <br/><br/>
