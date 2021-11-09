@@ -33,8 +33,8 @@
 
 <br/>
 
-## gray image:
-  ### before quantization:
+## gray image: 
+  ### before quantization: :monkey:
   <img width="309" alt="צילום מסך 2021-11-09 ב-15 47 18" src="https://user-images.githubusercontent.com/83215154/140938715-5c483374-03c5-4212-99e7-7d4079df4603.png">
   
 <br/>
